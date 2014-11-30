@@ -1,4 +1,5 @@
 R0tat0r
 =======
 
-YATC
+A simple Teris clone done as a learning exercise in Python.
+
